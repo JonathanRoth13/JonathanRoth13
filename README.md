@@ -2,7 +2,7 @@ Hello, and welcome to my profile!
 
 I am a fifth-year computer science student at the Rochester Institute of Technology. I am particularly enthusiastic about artificial intelligence, computer vision, and data mining.
 
-I will have completed all of the coursework required for my bachelors on June 1st, 2022. I am currently searching for an internship for Fall of 2022, after which I would receive my BS in Computer Science.
+I will recieve my bachelors degree in computer science in June 2022. 
 
 I have had two previous internships at Tyber Medical where I worked as a Business Intelligence Associate. I am grateful for the opportunity that I had to learn about medical device manufacturing and to be emerged in a professional environment.
  
