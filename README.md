@@ -1,6 +1,6 @@
 Hello, and welcome to my profile!
 
-I am a fifth-year computer science student at the Rochester Institute of Technology. I am particularly enthusiastic about artificial intelligence, computer vision, and data mining. I will receive my BS in Computer Science on May 7, 2022.
+I graduated from RIT in May 2022 with a B.S. in computer science. I have professional experience in software development and business intelligence. I am I am particularly enthusiastic about artificial intelligence, computer vision, and data mining.
 
 I have had two previous internships at Tyber Medical where I worked as a Business Intelligence Associate. I am grateful for the opportunity that I had to learn about medical device manufacturing and to be emerged in a professional environment.
 
