@@ -1,6 +1,6 @@
 Hello, and welcome to my profile!
 
-I graduated from RIT in May 2022 with a B.S. in computer science. I have professional experience in software development and business intelligence. I am I am particularly enthusiastic about artificial intelligence, computer vision, and data mining.
+I graduated from RIT in May 2022 with a B.S. in computer science. I have professional experience in software development and business intelligence. I am particularly enthusiastic about artificial intelligence, computer vision, and data mining.
 
 I have had two previous internships at Tyber Medical where I worked as a Business Intelligence Associate. I am grateful for the opportunity that I had to learn about medical device manufacturing and to be emerged in a professional environment.
 
